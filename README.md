@@ -8,23 +8,23 @@
 
 <p align="left"> <a href="https://twitter.com/abdul-wahab malik" target="blank"><img src="https://img.shields.io/twitter/follow/abdul-wahab malik?logo=twitter&style=for-the-badge" alt="abdul-wahab malik" /></a> </p>
 
-- 🔭 I’m currently working on [A Desktop Application for taking natoinal exams both theory and objective exams](NOT AVAILABLE YET)
+- 🔭 I’m currently working on A Desktop Application for taking natoinal exams both theory and objective exams (NOT AVAILABLE YET)
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on [Any cool idea that you might think of.](Looking to collaborate with any one share open source project link.)
+- 👯 I’m looking to collaborate on Any cool idea that you might think of. (Looking to collaborate with any one share open source project link.)
 
-- 👨‍💻 All of my projects are available at [https://github.com/abwmcoders](https://github.com/abwmcoders)
+- 👨‍💻 All of my projects are available at https://github.com/abwmcoders (https://github.com/abwmcoders)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- 📝 I regularly write articles on https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile (https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 - 💬 Ask me about **Flutter, Python(Flask & FastApi), Php(Laravel)**
 
 - 📫 How to reach me **abwmcode@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yo3XZP7eLIP5ChqyRgMf_IxJB-a8UT4i/view?usp=drive_link](https://drive.google.com/file/d/1yo3XZP7eLIP5ChqyRgMf_IxJB-a8UT4i/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1yo3XZP7eLIP5ChqyRgMf_IxJB-a8UT4i/view?usp=drive_link (https://drive.google.com/file/d/1yo3XZP7eLIP5ChqyRgMf_IxJB-a8UT4i/view?usp=drive_link)
 
-- ⚡ Fun fact **Although I do enjoy playing video games in my free time, I also like going to the football pitch and also doing all sort of sport activities. Staying active is important to me because when you have some time to just focus on nature, you can get sudden bursts of inspiration that come in handy during an app development process.**
+- ⚡ Fun fact **Although I do enjoy playing video games in my free time, I also like going to the football pitch and also doing all sort of sport activities. Staying active is important to me because when you have some time to just focus on nature, you can get sudden bursts of inspiration that came in handy during an app development process.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
